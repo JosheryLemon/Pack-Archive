@@ -21,13 +21,14 @@ Click the **Fork** button on the top right of this repository to create your own
 ### Step 2 — Add your files
 
 Add your files to the appropriate folder in the archive.
+Create a folder with your pack name to put a README.md to decribe your pack
 
 Example structure:
 
 /Skin-Packs
-/Texture Packs
-
-If a suitable folder does not exist, feel free to create one.
+  /Little-Legacy
+    README.md
+    Little-Legacy.zip
 
 ### Step 3 — Commit your changes
 
